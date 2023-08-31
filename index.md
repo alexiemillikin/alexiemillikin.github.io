@@ -9,5 +9,3 @@
 B.A. Colorado College in Geology
 
 Current PhD student at Yale University in Geochemistry and Geochronology
-
-![Geerbukta]([/alexiemillikin.github.io/img/IMG_2763.JPG](https://github.com/alexiemillikin/alexiemillikin.github.io/blob/main/img/IMG_2763.JPG)https://github.com/alexiemillikin/alexiemillikin.github.io/blob/main/img/IMG_2763.JPG)
