@@ -7,4 +7,4 @@
 B.A. Colorado College in Geology
 
 Current PhD student at Yale University in Geochemistry and Geochronology
-![Millikin_headshot](img/Millikin_headshot.png)
+![Millikin_headshot](alexiemillikin.github.io/img/Millikin_headshot.jpeg)
