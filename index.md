@@ -9,4 +9,4 @@
 B.A. Colorado College in Geology
 Current PhD student at Yale University in Geochemistry and Geochronology
 
-![Geerbukta](img/IMG_2763.jpg)
+![Geerbukta](/img/IMG_2763.jpg)
