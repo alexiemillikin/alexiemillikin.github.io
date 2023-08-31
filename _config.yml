@@ -1,7 +1,7 @@
 title: Alexie Millikin
 description: A portfolio website 
 
-logo: ![Millikin_headshot](img/Millikin_headshot.jpeg)
+logo: img/Millikin_headshot.jpeg
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
