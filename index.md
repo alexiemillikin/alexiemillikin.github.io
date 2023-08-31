@@ -1,9 +1,10 @@
 # Alexie Millikin
 
 * alexie.millikin@yale.edu
-* Github: Alexie Millikin
+* Github: alexiemillikin
 * [Website](https://people.earth.yale.edu/profile/alexie-millikin/about)
 
 B.A. Colorado College in Geology
 
 Current PhD student at Yale University in Geochemistry and Geochronology
+![Millikin_headshot](/alexiemillikin.github.io/img/Millikin_headshot.png)
