@@ -18,4 +18,5 @@ Current PhD student at Yale University in Geochemistry and Geochronology
 
 ## Projects:
 [Colorado Springs 2013 Flood Analysis](https://alexiemillikin.github.io//01-time-series-CoSprgs-Flood.html)
+
 [Burlington, VT Temperature Trends](https://alexiemillikin.github.io//02-avg-temp-Burlington-VT.html)
