@@ -20,3 +20,7 @@ Current PhD student at Yale University in Geochemistry and Geochronology
 [Colorado Springs 2013 Flood Analysis](https://alexiemillikin.github.io//01-time-series-CoSprgs-Flood.html)
 
 [Burlington, VT Temperature Trends](https://alexiemillikin.github.io//02-avg-temp-Burlington-VT.html)
+
+[Waldo Canyon Fire NDVI](https://alexiemillikin.github.io//03-modis-ndvi.html)
+
+[![DOI](https://zenodo.org/badge/685245442.svg)](https://zenodo.org/badge/latestdoi/685245442)
