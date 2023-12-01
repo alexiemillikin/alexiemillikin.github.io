@@ -23,6 +23,6 @@ Current PhD student at Yale University in Geochemistry and Geochronology
 
 [Waldo Canyon Fire NDVI](https://alexiemillikin.github.io//03-modis-ndvi.html)
 
-[Grassland Management](https://alexiemillikin.github.io//grassland-management.html)
+[Grassland Management](https://alexiemillikin.github.io/grassland-management/)
 
 [![DOI](https://zenodo.org/badge/685245442.svg)](https://zenodo.org/badge/latestdoi/685245442)
